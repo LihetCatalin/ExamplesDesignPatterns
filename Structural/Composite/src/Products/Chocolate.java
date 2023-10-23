@@ -1,3 +1,4 @@
+package Products;
 public class Chocolate implements Product {
     @Override
     public int getPrice() {

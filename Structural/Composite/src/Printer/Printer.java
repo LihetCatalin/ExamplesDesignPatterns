@@ -1,3 +1,6 @@
+package Printer;
+import TruckModel.Truck;
+
 public class Printer {
     private Truck truck;
     public Printer(Truck t){

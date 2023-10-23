@@ -1,3 +1,4 @@
+package Products;
 public class Salt implements Product {
     @Override
     public int getPrice() {

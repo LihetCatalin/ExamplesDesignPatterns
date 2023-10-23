@@ -1,3 +1,6 @@
+import Products.*;
+import TruckModel.Truck;
+import Printer.Printer;
 
 public class Main {
     public static void main(String[] args) {

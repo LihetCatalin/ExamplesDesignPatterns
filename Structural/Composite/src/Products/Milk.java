@@ -1,11 +1,12 @@
-public class Bread implements Product {
+package Products;
+public class Milk implements Product {
     @Override
     public int getPrice() {
-        return 5;
+        return 10;
     }
 
     @Override
     public int getMass() {
-        return 450;
+        return 1000;
     }
 }
